@@ -1,0 +1,306 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"a",
+				"auto_now_add"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"tw",
+				"two_hears"
+			],
+			[
+				"Ali",
+				"AlienInvasion"
+			],
+			[
+				"n",
+				"num2"
+			],
+			[
+				"num",
+				"num1"
+			],
+			[
+				"p",
+				"points"
+			],
+			[
+				"ran",
+				"randint"
+			],
+			[
+				"pop",
+				"poped"
+			],
+			[
+				"ra",
+				"randint"
+			],
+			[
+				"Me",
+				"MESSAGE"
+			],
+			[
+				"I",
+				"input"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"spaces",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"tabs",
+				"View: Toggle Tabs"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"term",
+				"Terminal: Open"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				" install ",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 95.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/eldor/Desktop/Projects/Web/try_django"
+	],
+	"file_history":
+	[
+		"/C/Users/eldor/Desktop/Projects/Web/learning_log/learning_logs/models.py",
+		"/C/Users/eldor/Desktop/Projects/Web/learning_log/learning_log/urls.py",
+		"/C/Users/eldor/Desktop/Projects/Web/learning_log/learning_logs/urls.py",
+		"/C/Users/eldor/Desktop/Projects/Web/learning_log/learning_logs/views.py",
+		"/C/Users/eldor/Desktop/Projects/Web/learning_log/learning_logs/templates/learning_logs/index.html",
+		"/C/Users/eldor/Desktop/Projects/Web/learning_log/learning_logs/admin.py",
+		"/C/Users/eldor/Desktop/Projects/Web/learning_log/learning_log/settings.py",
+		"/C/Users/eldor/Desktop/Projects/Web/learning_log/.gitignore",
+		"/C/Users/eldor/Desktop/Projects/Web/learning_log/learning_log/wsgi.py",
+		"/C/Users/eldor/Desktop/milestone 2/main.py",
+		"/C/Users/eldor/Desktop/Alien Invasion/alien_invasion.py",
+		"/C/Users/eldor/Desktop/Pythoncha/numbers.json",
+		"/E/Games/Racer/Assets/MotionScript.cs",
+		"/E/Games/Racer/Assets/RaycastScript.cs",
+		"/E/Games/Amazing Racer/Assets/SC_FPSController.cs",
+		"/E/Games/Amazing Racer/Assets/Scripts/FinishZone.cs",
+		"/E/Games/Comando/Assets/CubeControlScript.cs",
+		"/E/Games/Racer/Assets/MovementScript.cs",
+		"/E/Games/Racer/Assets/TriggerScript.cs",
+		"/E/Games/Amazing Racer/Assets/Scripts/niggas/Scripts/FinishZone.cs",
+		"/C/Users/eldor/Desktop/app.js"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "C:\\Users\\eldor\\Desktop\\Projects\\Web\\learning_log"
+		},
+		{
+			"path": "C:\\Users\\eldor\\Desktop\\Projects\\Web\\try_django"
+		}
+	],
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 111.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"main.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 277.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
