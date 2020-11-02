@@ -4,6 +4,18 @@
 		"selected_items":
 		[
 			[
+				"ab",
+				"about_page"
+			],
+			[
+				"con",
+				"contact_page"
+			],
+			[
+				"home",
+				"home_page"
+			],
+			[
 				"a",
 				"auto_now_add"
 			],
@@ -55,6 +67,24 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "src/try_django/views.py",
+			"settings":
+			{
+				"buffer_size": 258,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/try_django/urls.py",
+			"settings":
+			{
+				"buffer_size": 904,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -140,7 +170,9 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Users/eldor/Desktop/Projects/Web/try_django"
+		"/C/Users/eldor/Desktop/Projects/Web/try_django",
+		"/C/Users/eldor/Desktop/Projects/Web/try_django/src",
+		"/C/Users/eldor/Desktop/Projects/Web/try_django/src/try_django"
 	],
 	"file_history":
 	[
@@ -208,8 +240,66 @@
 	"groups":
 	[
 		{
+			"selected": 1,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "src/try_django/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 258,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								251,
+								251
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/try_django/urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 904,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								717,
+								717
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -298,7 +388,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 277.0,
+	"side_bar_width": 100.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
